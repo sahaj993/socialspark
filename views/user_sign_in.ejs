@@ -1,0 +1,20 @@
+<link rel="stylesheet" href="/css/form-style.css">
+
+<div class="body-continer">
+    <div class="main-logo">
+        <img src="/img/bg-img1.jpg">
+    </div>
+    
+    <div class="main-form main-content">
+        <h1>Sign In</h1>
+        <form action="/users/create-session" method="POST">
+            <input type="email" name="email" placeholder="Email"  required>
+            <input type="password" name="password" placeholder="Password"  required>
+            <p>
+                <a href="/users/auth/google" class="auth">Google Sign In/Sign Up</a>
+            </p>
+            <input type="submit" class="submit-btn" value="Sign In">
+        </form>
+    </div>
+</div>
+
