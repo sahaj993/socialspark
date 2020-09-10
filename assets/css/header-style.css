@@ -8,13 +8,13 @@
 }
 
 #layout-header nav .mini-logo p {
-    margin: 5px;
+    margin: 15px;
     font-size: 1.4rem;
     font-weight: bold;
 }
 
 #layout-header nav .auth-links ul {
-    margin: 5% 15px;
+    margin: 8% 15px;
     display: flex;
 }
 

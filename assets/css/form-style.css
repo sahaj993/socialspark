@@ -8,8 +8,8 @@
 }
 
 .main-content {
-    margin-left: 180px;
-    margin-top: 150px;
+    /* margin-left: 100px; */
+    margin-top: 120px;
 }
 
 .main-form {
@@ -50,14 +50,16 @@ input {
 }
 
 .home-text {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-top: -70px;
 }
 
 .page-text {
     text-align: center;
     color:#626a88;
-    font-size: 70px;
-    font-weight: 900;
+    font-size: 60px;
+    font-weight: 800;
 }
 
 .main-form a {

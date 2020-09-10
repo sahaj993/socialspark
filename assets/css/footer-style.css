@@ -1,4 +1,4 @@
-#layout-footer {
+#layout-footer nav {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -8,6 +8,16 @@
     padding: 5px 10px;
     display: flex;
     justify-content: flex-start;
+}
+
+#layout-footer nav ul {
+    margin-left: 1100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#layout-footer nav ul li {
+    margin-right: 40px;
 }
 
 #layout-footer a {
